@@ -1,0 +1,102 @@
+{
+  "number": 1,
+  "slug": "01-paper-cup",
+  "title": "Paper Cup",
+  "color": "#7C3AED",
+  "topic": "classic drinking cup from one square",
+  "age": "6+",
+  "time": "10 minutes",
+  "square_mm": 150,
+  "coding_link": "Steps in order are an algorithm — skip one and the cup fails (a bug).",
+  "materials": [
+    "1 square of paper 150 × 150 mm (origami paper, or cut a square from A4)",
+    "flat table",
+    "optional: a little water to test the cup"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "title": "Diagonal valley",
+      "foldType": "valley",
+      "line": { "from": [0, 0], "to": [1, 1] },
+      "direction": "bring-top-left-to-bottom-right",
+      "resultShape": "triangle",
+      "do": "Fold TL corner to BR.",
+      "check": "A triangle.",
+      "tip": "Crease with a fingernail."
+    },
+    {
+      "n": 2,
+      "title": "Left corner up",
+      "foldType": "valley",
+      "direction": "bring-left-corner-to-top",
+      "resultShape": "triangle-with-left-flap",
+      "do": "Fold left tip to the top.",
+      "check": "Left flap meets the peak.",
+      "tip": "Keep the triangle stacked."
+    },
+    {
+      "n": 3,
+      "title": "Right corner up",
+      "foldType": "valley",
+      "direction": "bring-right-corner-to-top",
+      "resultShape": "cup-sides",
+      "do": "Fold right tip to the top.",
+      "check": "Both sides match (symmetry).",
+      "tip": "Mirror the left fold."
+    },
+    {
+      "n": 4,
+      "title": "Front lip down",
+      "foldType": "valley",
+      "direction": "fold-front-top-into-pocket",
+      "resultShape": "front-tucked",
+      "do": "Fold the front peak into the pocket.",
+      "check": "Front lip tucked.",
+      "tip": "Slide into the little pocket."
+    },
+    {
+      "n": 5,
+      "title": "Turn over",
+      "foldType": "turn-over",
+      "resultShape": "back-ready",
+      "do": "Flip the whole model.",
+      "check": "Back looks like the front did.",
+      "tip": "Like flipping a pancake."
+    },
+    {
+      "n": 6,
+      "title": "Back lip down",
+      "foldType": "valley",
+      "direction": "fold-back-top-into-pocket",
+      "resultShape": "closed-cup",
+      "do": "Tuck the back peak the same way.",
+      "check": "Both lips locked.",
+      "tip": "Same move as step 4."
+    },
+    {
+      "n": 7,
+      "title": "Open the cup",
+      "foldType": "unfold",
+      "direction": "open-from-top",
+      "resultShape": "cup-3d",
+      "do": "Squeeze sides, push the bottom flat.",
+      "check": "A 3D cup!",
+      "tip": "Gentle — do not tear."
+    }
+  ],
+  "pages": [
+    { "n": 1, "file": "page-1", "title": "Cover + true-size square + symbol key" },
+    { "n": 2, "file": "page-2", "title": "Steps 1–7 + Finished!" }
+  ],
+  "outputs": {
+    "templates_pdf": "templates.pdf",
+    "pages": ["page-1.svg", "page-1.png", "page-2.svg", "page-2.png"],
+    "final": "final.png",
+    "card": "card.png"
+  },
+  "video": {
+    "playlist": "Origami for Kids",
+    "youtube_id": null
+  }
+}

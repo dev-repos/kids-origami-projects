@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dev-repos.github.io/kids-origami-projects/spec/project.schema.json",
+  "title": "Kids origami project spec",
+  "type": "object",
+  "required": ["number", "slug", "title", "age", "time", "square_mm", "materials", "steps", "outputs"],
+  "properties": {
+    "number": { "type": "integer" },
+    "slug": { "type": "string", "pattern": "^[0-9]{2}-[a-z0-9-]+$" },
+    "title": { "type": "string" },
+    "color": { "type": "string" },
+    "topic": { "type": "string" },
+    "age": { "type": "string" },
+    "time": { "type": "string" },
+    "square_mm": { "type": "number" },
+    "coding_link": { "type": "string" },
+    "materials": { "type": "array", "items": { "type": "string" } },
+    "steps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["n", "title", "foldType", "resultShape"],
+        "properties": {
+          "n": { "type": "integer" },
+          "title": { "type": "string" },
+          "foldType": {
+            "type": "string",
+            "enum": ["valley", "mountain", "inside-reverse", "outside-reverse", "squash", "petal", "unfold", "rotate", "turn-over"]
+          },
+          "line": {
+            "type": "object",
+            "properties": {
+              "from": { "type": "array", "items": { "type": "number" }, "minItems": 2, "maxItems": 2 },
+              "to": { "type": "array", "items": { "type": "number" }, "minItems": 2, "maxItems": 2 }
+            }
+          },
+          "direction": { "type": "string" },
+          "resultShape": { "type": "string" },
+          "tip": { "type": "string" },
+          "do": { "type": "string" },
+          "check": { "type": "string" }
+        }
+      }
+    },
+    "pages": { "type": "array", "items": { "type": "object" } },
+    "outputs": { "type": "object", "additionalProperties": true },
+    "video": {
+      "type": "object",
+      "properties": {
+        "playlist": { "type": "string" },
+        "youtube_id": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

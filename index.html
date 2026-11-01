@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Origami for Kids · Kids.JoinDev</title>
+<style>
+body{margin:0;font-family:system-ui,sans-serif;background:#faf5ff;color:#1e1060}
+header{background:#7c3aed;color:#fff;border-bottom:4px solid #1e1060;padding:24px;display:flex;gap:20px;align-items:center;justify-content:center;flex-wrap:wrap}
+header a{color:#fde68a}
+h1{font-size:2.2rem;margin:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:20px;padding:24px;max-width:1200px;margin:auto}
+.cell{background:#fff;border:3px solid #1e1060;border-top:12px solid var(--c,#7c3aed);border-radius:16px;padding:12px}
+.cell img{width:100%;border-radius:8px;border:1px solid #ddd;background:#faf5ff}
+.cell.planned{opacity:.72;border-style:dashed}
+h3{margin:8px 0 4px}p{margin:4px 0;font-size:.95rem}
+a{color:#5b21b6}
+.print{background:#fff7ed;border:2px solid #fdba74;border-radius:12px;padding:16px 20px;max-width:900px;margin:12px auto;font-size:.95rem}
+.key{background:#fff;border:2px solid #ddd6fe;border-radius:12px;padding:16px 20px;max-width:900px;margin:12px auto}
+footer{text-align:center;padding:24px;font-size:.9rem}
+</style>
+</head>
+<body>
+<header>
+<svg viewBox="0 0 120 120" width="96" aria-hidden="true">
+  <rect x="10" y="10" width="100" height="100" rx="12" fill="#fff7ed" stroke="#fff" stroke-width="4"/>
+  <path d="M30 40 L90 40 L82 95 L38 95 Z" fill="#fed7aa" stroke="#1e1060" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="60" cy="40" rx="30" ry="8" fill="#ffedd5" stroke="#1e1060" stroke-width="2.5"/>
+  <path d="M40 40 L60 58 L80 40 Z" fill="#fdba74" stroke="#9a3412" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M48 40 L60 28 L72 40 Z" fill="#fdba74" stroke="#9a3412" stroke-width="2" stroke-linejoin="round"/>
+</svg>
+<div>
+  <h1>Origami for Kids</h1>
+  <p>Fold-along paper crafts with true-size A4 sheets. Ages 6–12.<br>
+  YouTube: <a href="https://www.youtube.com/@Kids.JoinDev">@Kids.JoinDev</a> · playlist <b>Origami for Kids</b> (coming soon) · <a href="https://kids.join.dev">kids.join.dev</a></p>
+</div>
+</header>
+
+<div class="print">
+  <b>How to print true-size A4:</b> open a project’s <code>templates.pdf</code> → print at <b>100% / Actual size</b> → do <b>not</b> “fit to page” → measure the black <b>100 mm</b> bar with a ruler. Default square is <b>150 × 150 mm</b>.
+</div>
+
+<div class="key">
+  <b>Symbol key:</b>
+  dashed <span style="color:#2563eb">blue</span> = valley (toward you) ·
+  dash-dot <span style="color:#dc2626">red</span> = mountain (away) ·
+  ↻ turn over · → fold arrow · number badges = step order (an algorithm!)
+</div>
+
+<div class="grid">
+  <div class="cell" style="--c:#7c3aed">
+    <a href="projects/01-paper-cup/final.png"><img src="projects/01-paper-cup/final.png" alt="Finished paper cup" loading="lazy"></a>
+    <h3>#1 Paper Cup</h3>
+    <p>Ages 6+ · 10 min · algorithm of steps</p>
+    <p>
+      <a href="https://github.com/dev-repos/kids-origami-projects/blob/gh-pages/projects/01-paper-cup/README.md">Guide</a> ·
+      <a href="projects/01-paper-cup/final.png">Finished!</a> ·
+      <a href="projects/01-paper-cup/templates.pdf">templates PDF</a><br>
+      <b>Pages:</b>
+      <a href="projects/01-paper-cup/page-1.png">1</a> ·
+      <a href="projects/01-paper-cup/page-2.png">2</a>
+      · <a href="projects/01-paper-cup/card.png">card</a>
+    </p>
+  </div>
+  <div class="cell planned" style="--c:#f97316"><h3>#2 Fox Face</h3><p>Ages 6+ · symmetry</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#0ea5e9"><h3>#3 Paper Boat</h3><p>Ages 6+ · halves / fractions</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#22c55e"><h3>#4 Jumping Frog</h3><p>Ages 7+ · event → action</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#eab308"><h3>#5 Paper Plane Dart</h3><p>Ages 7+ · angles</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#ec4899"><h3>#6 Fortune Teller</h3><p>Ages 7+ · nested loops</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#ef4444"><h3>#7 Heart Bookmark</h3><p>Ages 7+ · matching pairs</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#8b5cf6"><h3>#8 Butterfly</h3><p>Ages 8+ · reusable base</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#64748b"><h3>#9 Samurai Helmet</h3><p>Ages 8+ · fold hierarchy</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#14b8a6"><h3>#10 Talking Crow</h3><p>Ages 8+ · input → output</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#a855f7"><h3>#11 Classic Crane</h3><p>Ages 9+ · long algorithm</p><p>Planned</p></div>
+  <div class="cell planned" style="--c:#f59e0b"><h3>#12 Modular Star</h3><p>Ages 10+ · modules as functions</p><p>Planned</p></div>
+</div>
+
+<footer>
+Code: MIT · Guides and fold sheets: CC BY 4.0 · See <a href="LICENSE">LICENSE</a> ·
+<a href="https://github.com/dev-repos/kids-origami-projects">Source on GitHub</a>
+</footer>
+</body>
+</html>
