@@ -25,7 +25,11 @@
           "title": { "type": "string" },
           "foldType": {
             "type": "string",
-            "enum": ["valley", "mountain", "inside-reverse", "outside-reverse", "squash", "petal", "unfold", "rotate", "turn-over"]
+            "enum": [
+              "valley", "mountain", "inside-reverse", "outside-reverse",
+              "squash", "petal", "unfold", "rotate", "turn-over", "cut"
+            ],
+            "description": "Use cut for scissors steps; valley/mountain for folds."
           },
           "line": {
             "type": "object",
@@ -38,7 +42,32 @@
           "resultShape": { "type": "string" },
           "tip": { "type": "string" },
           "do": { "type": "string" },
-          "check": { "type": "string" }
+          "check": { "type": "string" },
+          "say": {
+            "type": "string",
+            "description": "Kid-language narration for the video beat; phases sync to words via cue."
+          },
+          "cue": {
+            "type": "object",
+            "description": "Map fold/cut animation phases to a word or short phrase inside say (Azure TTS word timings).",
+            "properties": {
+              "showLine": { "type": "string" },
+              "showArrow": { "type": "string" },
+              "highlightFlap": { "type": "string" },
+              "showFingers": { "type": "string" },
+              "fold": { "type": "string" },
+              "crease": { "type": "string" },
+              "resultCheck": { "type": "string" },
+              "showCut": { "type": "string" },
+              "scissors": { "type": "string" },
+              "safetyTip": { "type": "string" }
+            },
+            "additionalProperties": false
+          },
+          "safetyTip": {
+            "type": "string",
+            "description": "Required when foldType is cut — remind kids to ask a grown-up for scissors."
+          }
         }
       }
     },
@@ -48,7 +77,16 @@
       "type": "object",
       "properties": {
         "playlist": { "type": "string" },
-        "youtube_id": { "type": ["string", "null"] }
+        "youtube_id": { "type": ["string", "null"] },
+        "fps": { "type": "integer", "minimum": 30, "description": "Series default ≥ 30; smooth eased folds." },
+        "quality": {
+          "type": "object",
+          "properties": {
+            "smoothFolds": { "type": "boolean" },
+            "clearDirection": { "type": "boolean" },
+            "narrationSync": { "type": "boolean", "description": "Azure TTS word-cue sync" }
+          }
+        }
       }
     }
   }

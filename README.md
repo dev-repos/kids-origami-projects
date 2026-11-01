@@ -25,6 +25,15 @@ Every topic lives in its own folder under `projects/` with a guide (`README.md`)
 | Number badge | Step order (follow in sequence — it is an algorithm!) |
 | ★ Finished! | What the model should look like at the end |
 
+
+## Video quality (Origami for Kids episodes)
+
+When an episode is made for a topic in this repo, these rules are required (see also `AGENTS.md` and the sandbox `origami.md`):
+
+1. **Smooth** — fold flaps with eased hinge rotations over the crease (≥ 30 fps); no jump-cuts; steady camera.
+2. **Clear direction** — show the crease line first, then a big arrow, highlight the moving flap, crease, then a result outline check. Cuts use a red line + travelling scissors icon and a “ask a grown-up” tip.
+3. **Narration sync** — step `say` + `cue` fields in `spec.json` bind animation phases to Azure TTS word timings; the next step waits for the line to finish.
+
 ## Playlist backlog
 
 | # | Project | Ages | Hook / skill | Fold sheet | Status |
