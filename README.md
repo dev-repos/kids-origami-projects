@@ -1,10 +1,10 @@
 # Origami for Kids 📄✨
 
-Fold-along paper crafts for ages 6–12 from [@Kids.JoinDev](https://www.youtube.com/@Kids.JoinDev). Vector fold sheets, quiet video lessons (playlist **Origami for Kids** — coming soon), and a light coding/maths link in every topic (symmetry, angles, sequences as algorithms).
+Fold-along paper crafts for ages 6–12 from [@Kids.JoinDev](https://www.youtube.com/@Kids.JoinDev). Vector fold sheets, quiet video lessons (playlist **Origami for Kids**), and a light coding/maths link in every topic (symmetry, angles, sequences as algorithms).
 
 Website: https://dev-repos.github.io/kids-origami-projects/
 
-Every topic lives in its own folder under `projects/` with a kid-facing guide (`README.md`), a **Finished!** result drawing (`final.png`), and **true-size A4 fold sheets** (`templates.pdf` at A4 210×297 mm — the preferred print file — plus `page-N.png` at 300 dpi, 1 mm ≈ 11.811 px, and `page-N.svg`). New topics are added to this same repo.
+Every topic lives in its own folder under `projects/` with a kid landing page (`index.html` — required on Pages because `.nojekyll` skips README rendering) plus a guide (`README.md`), a **Finished!** result drawing (`final.png`), and **true-size A4 fold sheets** (`templates.pdf` at A4 210×297 mm — the preferred print file — plus `page-N.png` at 300 dpi, 1 mm ≈ 11.811 px, and `page-N.svg`). New topics are added to this same repo.
 
 ## How to print (true-size A4)
 
@@ -29,8 +29,8 @@ Every topic lives in its own folder under `projects/` with a kid-facing guide (`
 
 | # | Project | Ages | Hook / skill | Fold sheet | Status |
 |---|---------|------|--------------|------------|--------|
-| 1 | [Paper Cup](projects/01-paper-cup/README.md) | 6+ | Steps as an algorithm | [PDF](projects/01-paper-cup/templates.pdf) · [final](projects/01-paper-cup/final.png) | **Live** |
-| 2 | [Fox Face](projects/02-fox-face/README.md) | 6+ | Symmetry (mirror line) | [PDF](projects/02-fox-face/templates.pdf) · [fold sheet](projects/02-fox-face/fold-sheet.pdf) · [draw sheet](projects/02-fox-face/fold-sheet-draw.pdf) · [final](projects/02-fox-face/final.png) | **Done** |
+| 1 | [Paper Cup](projects/01-paper-cup/) | 6+ | Steps as an algorithm | [PDF](projects/01-paper-cup/templates.pdf) · [fold sheet](projects/01-paper-cup/fold-sheet.pdf) · [final](projects/01-paper-cup/final.png) | **Live** |
+| 2 | [Fox Face](projects/02-fox-face/) | 6+ | Symmetry (mirror line) | [PDF](projects/02-fox-face/templates.pdf) · [fold sheet](projects/02-fox-face/fold-sheet.pdf) · [draw sheet](projects/02-fox-face/fold-sheet-draw.pdf) · [final](projects/02-fox-face/final.png) | **Done** |
 | 3 | [Paper Boat](projects/03-paper-boat/README.md) | 6+ | Halving / fractions | — | **Next** |
 | 4 | [Jumping Frog](projects/04-jumping-frog/README.md) | 7+ | Event → action (spring) | — | Planned |
 | 5 | [Paper Plane Dart](projects/05-paper-plane/README.md) | 7+ | Angles + centre line | — | Planned |

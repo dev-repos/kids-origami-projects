@@ -1,6 +1,6 @@
 # #02 Fox Face
 
-Fold a classic fox face with two ear peeks. Ages **6+**, about **10 minutes**.
+Fold a classic fox face with two ear peeks. Ages **6+**, about **12 minutes**.
 
 **Coding / maths link:** **symmetry** — a mirror line down the middle. Left = right. Match each fold on both sides.
 
@@ -16,6 +16,8 @@ Two print options (both true-size A4):
 
 1. **[fold-sheet.pdf](fold-sheet.pdf)** — Side A = fold/cut marks · Side B = **printed fox face** (eyes, nose, whiskers, ear shading) that lands correctly after folding. Prefer this.
 2. **[fold-sheet-draw.pdf](fold-sheet-draw.pdf)** — Same folds, but Side B has **dotted guide outlines** so kids draw the face themselves with a marker.
+
+Kid landing page (GitHub Pages): **[index.html](./)** — finished picture + all downloads.
 
 Also bundled: **[templates.pdf](templates.pdf)** (cover + steps, Paper Cup style). Print at **100% / Actual size** — do **not** “fit to page”. Measure the black **100 mm** bar with a ruler.
 

@@ -12,8 +12,14 @@ Fold a real drinking cup from one square of paper. Ages **6+**, about **10 minut
 - Optional: a sip of water to test the cup (grown-up nearby)
 
 ## Print the sheet
-Download **[templates.pdf](templates.pdf)** (2× A4 pages). Print at **100% / Actual size** — do **not** choose “fit to page”. Measure the **100 mm** bar on the page with a ruler. If it is not exactly 100 mm, print again.
+Prefer the two-sided fold sheet, then the step cards:
 
+1. **[fold-sheet.pdf](fold-sheet.pdf)** — Side A = fold/cut marks · Side B = coloured side. Print **both sides**, flip on the long edge, then cut out the square. Prefer this.
+2. **[templates.pdf](templates.pdf)** (2× A4 pages) — cover + step cards. Print at **100% / Actual size** — do **not** choose “fit to page”. Measure the **100 mm** bar with a ruler.
+
+Kid landing page (GitHub Pages): **[index.html](./)** — finished picture + all downloads.
+
+- [fold-sheet-side-a.png](fold-sheet-side-a.png) · [fold-sheet-side-b.png](fold-sheet-side-b.png) — fold sheet sides  
 - [page-1.png](page-1.png) · [page-1.svg](page-1.svg) — cover, true-size square, symbol key, Finished! preview  
 - [page-2.png](page-2.png) · [page-2.svg](page-2.svg) — steps 1–7 + Finished! check  
 - [final.png](final.png) — finished cup drawing  
@@ -43,4 +49,4 @@ Your cup should look like [final.png](final.png): open top, tapered body, **two 
 Fold a second cup from a magazine page. Same algorithm — does it still work?
 
 ## Video
-Episode for the **Origami for Kids** playlist on [@Kids.JoinDev](https://www.youtube.com/@Kids.JoinDev) — coming soon.
+Episode for the **Origami for Kids** playlist on [@Kids.JoinDev](https://www.youtube.com/@Kids.JoinDev): [Fold a Paper Cup!](https://youtu.be/-gKPClIPDeE) (private / madeForKids).
