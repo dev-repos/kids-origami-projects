@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="210" height="297" fill="#FFFFFF"/>
+<rect x="10" y="8" width="190" height="16" rx="2" fill="#7C3AED"/>
+<text x="105.00" y="15.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.6" text-anchor="middle" fill="#fff" font-weight="700">Origami for Kids  ·  #02 Fox Face  ·  FOLD SHEET  ·  side B</text>
+<text x="105.00" y="21.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.7" text-anchor="middle" fill="#E9D5FF">Print BOTH sides (flip on long edge) at 100% / actual size</text>
+<rect x="30.0" y="34.0" width="150.0" height="150.0" fill="#FFEDD5"/>
+<rect x="30.0" y="34.0" width="150.0" height="150.0" fill="none" stroke="#334155" stroke-width="0.7" stroke-dasharray="0.1 1.7" stroke-linecap="round"/>
+<g transform="translate(25.50 46.00) rotate(90)"><circle cx="-2.2" cy="-1.3" r="1.2" fill="none" stroke="#334155" stroke-width="0.45"/><circle cx="-2.2" cy="1.3" r="1.2" fill="none" stroke="#334155" stroke-width="0.45"/><line x1="-1.2" y1="-0.8" x2="2.6" y2="0.9" stroke="#334155" stroke-width="0.45"/><line x1="-1.2" y1="0.8" x2="2.6" y2="-0.9" stroke="#334155" stroke-width="0.45"/></g>
+<text x="30.00" y="31.50" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.6" text-anchor="start" fill="#334155">✂ cut on the dotted line</text>
+<text x="105.00" y="110.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="9" text-anchor="middle" fill="#000000" fill-opacity="0.06" font-weight="700">SIDE B</text>
+<circle cx="80.25" cy="156.25" r="2.4" fill="#111827" stroke="#1E1060" stroke-width="0.45"/>
+<circle cx="79.55" cy="155.55" r="0.7" fill="#FFFFFF"/>
+<circle cx="57.75" cy="133.75" r="2.4" fill="#111827" stroke="#1E1060" stroke-width="0.45"/>
+<circle cx="57.05" cy="133.05" r="0.7" fill="#FFFFFF"/>
+<path d="M 42.00 172.00 L 52.50 169.00 L 45.00 161.50 Z" fill="#111827" stroke="#1E1060" stroke-width="0.45" stroke-linejoin="round"/>
+<line x1="55.50" y1="167.50" x2="79.50" y2="176.50" stroke="#1E1060" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="0.6 0.8"/>
+<line x1="50.25" y1="171.25" x2="66.00" y2="187.00" stroke="#1E1060" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="0.6 0.8"/>
+<line x1="46.50" y1="176.50" x2="57.00" y2="199.00" stroke="#1E1060" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="0.6 0.8"/>
+<line x1="46.50" y1="158.50" x2="37.50" y2="134.50" stroke="#1E1060" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="0.6 0.8"/>
+<line x1="42.75" y1="163.75" x2="27.00" y2="148.00" stroke="#1E1060" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="0.6 0.8"/>
+<line x1="37.50" y1="167.50" x2="15.00" y2="157.00" stroke="#1E1060" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="0.6 0.8"/>
+<path d="M 170.25 181.75 L 168.00 154.00 L 142.50 179.50 Z" fill="#F9A8D4" stroke="#DB2777" stroke-width="0.45" stroke-linejoin="round"/>
+<path d="M 32.25 43.75 L 60.00 46.00 L 34.50 71.50 Z" fill="#F9A8D4" stroke="#DB2777" stroke-width="0.45" stroke-linejoin="round"/>
+<text x="105.00" y="180.50" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.4" text-anchor="middle" fill="#9F1239">Face prints here — lands on the snout after you fold &amp; flip</text>
+<line x1="30.00" y1="34.00" x2="180.00" y2="184.00" stroke="#DC2626" stroke-width="0.75" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="105.00" y1="109.00" x2="105.00" y2="184.00" stroke="#DC2626" stroke-width="0.75" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="180.00" y1="109.00" x2="105.00" y2="109.00" stroke="#2563EB" stroke-width="0.75" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="30.00" y1="109.00" x2="105.00" y2="109.00" stroke="#DC2626" stroke-width="0.75" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="105.00" y1="34.00" x2="105.00" y2="109.00" stroke="#2563EB" stroke-width="0.75" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="79.57" y1="83.58" x2="63.99" y2="109.00" stroke="#2563EB" stroke-width="0.75" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="105.00" y1="42.09" x2="79.57" y2="83.58" stroke="#DC2626" stroke-width="0.75" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<circle cx="78.00" cy="82.00" r="2.60" fill="#DC2626" stroke="#FFFFFF" stroke-width="0.5"/><text x="78.00" y="83.05" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">1</text>
+<circle cx="105.00" cy="133.00" r="2.60" fill="#DC2626" stroke="#FFFFFF" stroke-width="0.5"/><text x="105.00" y="134.05" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">2</text>
+<circle cx="156.00" cy="109.00" r="2.60" fill="#2563EB" stroke="#FFFFFF" stroke-width="0.5"/><text x="156.00" y="110.05" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">2</text>
+<circle cx="54.00" cy="109.00" r="2.60" fill="#DC2626" stroke="#FFFFFF" stroke-width="0.5"/><text x="54.00" y="110.05" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">3</text>
+<circle cx="105.00" cy="58.00" r="2.60" fill="#2563EB" stroke="#FFFFFF" stroke-width="0.5"/><text x="105.00" y="59.05" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">3</text>
+<circle cx="74.59" cy="91.71" r="2.60" fill="#2563EB" stroke="#FFFFFF" stroke-width="0.5"/><text x="74.59" y="92.76" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">4</text>
+<circle cx="96.86" cy="55.37" r="2.60" fill="#DC2626" stroke="#FFFFFF" stroke-width="0.5"/><text x="96.86" y="56.42" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">5</text>
+<circle cx="175.40" cy="179.40" r="3.40" fill="#F59E0B" stroke="#FFFFFF" stroke-width="0.5"/><text x="175.40" y="180.45" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">2</text>
+<circle cx="176.82" cy="37.18" r="3.60" fill="#FFFFFF" stroke="#F59E0B" stroke-width="0.6" stroke-dasharray="0.8 0.8"/><text x="176.82" y="38.23" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#F59E0B" font-weight="700">2</text>
+<circle cx="34.60" cy="38.60" r="3.40" fill="#F59E0B" stroke="#FFFFFF" stroke-width="0.5"/><text x="34.60" y="39.65" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">3</text>
+<circle cx="176.82" cy="180.82" r="3.60" fill="#FFFFFF" stroke="#F59E0B" stroke-width="0.6" stroke-dasharray="0.8 0.8"/><text x="176.82" y="181.87" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#F59E0B" font-weight="700">3</text>
+<circle cx="34.60" cy="38.60" r="3.40" fill="#F59E0B" stroke="#FFFFFF" stroke-width="0.5"/><text x="34.60" y="39.65" font-family="DejaVu Sans, Arial, sans-serif" font-size="3.0" text-anchor="middle" fill="#FFFFFF" font-weight="700">4</text>
+<rect x="10" y="192.0" width="190" height="36" rx="2" fill="#FAF5FF" stroke="#DDD6FE" stroke-width="0.4"/>
+<text x="15.00" y="199.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="start" fill="#334155">Side B is the back of the square (the coloured side).</text>
+<text x="15.00" y="205.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="start" fill="#334155">A line that is a valley on one side is a mountain on the other — that is normal!</text>
+<text x="15.00" y="211.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="start" fill="#334155">No double-sided printer? Use only side A; the numbers still show every fold.</text>
+<text x="15.00" y="217.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.6" text-anchor="start" fill="#334155">Printed face: eyes, nose and whiskers are placed so they land on the snout after the last flip.</text>
+<text x="15.00" y="223.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.6" text-anchor="start" fill="#334155">Plain paper / no colour print? Draw the face with a marker on the snout (see the decorate step).</text>
+<rect x="55" y="274" width="100" height="6" fill="#111"/><line x1="55" y1="274" x2="55" y2="278.5" stroke="#fff" stroke-width="0.3"/><line x1="65" y1="274" x2="65" y2="277" stroke="#fff" stroke-width="0.3"/><line x1="75" y1="274" x2="75" y2="277" stroke="#fff" stroke-width="0.3"/><line x1="85" y1="274" x2="85" y2="277" stroke="#fff" stroke-width="0.3"/><line x1="95" y1="274" x2="95" y2="277" stroke="#fff" stroke-width="0.3"/><line x1="105" y1="274" x2="105" y2="278.5" stroke="#fff" stroke-width="0.3"/><line x1="115" y1="274" x2="115" y2="277" stroke="#fff" stroke-width="0.3"/><line x1="125" y1="274" x2="125" y2="277" stroke="#fff" stroke-width="0.3"/><line x1="135" y1="274" x2="135" y2="277" stroke="#fff" stroke-width="0.3"/><line x1="145" y1="274" x2="145" y2="277" stroke="#fff" stroke-width="0.3"/><line x1="155" y1="274" x2="155" y2="278.5" stroke="#fff" stroke-width="0.3"/><text x="105.00" y="278.60" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.8" text-anchor="middle" fill="#fff" font-weight="700">100 mm</text><text x="105.00" y="284.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.3" text-anchor="middle" fill="#333">Measure: this bar must be exactly 100 mm (print at 100%).</text>
+<text x="105.00" y="293.00" font-family="DejaVu Sans, Arial, sans-serif" font-size="2.2" text-anchor="middle" fill="#94A3B8">kids.join.dev  ·  @Kids.JoinDev  ·  github.com/dev-repos/kids-origami-projects</text>
+</svg>

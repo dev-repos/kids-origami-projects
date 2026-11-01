@@ -30,8 +30,8 @@ Every topic lives in its own folder under `projects/` with a kid-facing guide (`
 | # | Project | Ages | Hook / skill | Fold sheet | Status |
 |---|---------|------|--------------|------------|--------|
 | 1 | [Paper Cup](projects/01-paper-cup/README.md) | 6+ | Steps as an algorithm | [PDF](projects/01-paper-cup/templates.pdf) · [final](projects/01-paper-cup/final.png) | **Live** |
-| 2 | [Fox Face](projects/02-fox-face/README.md) | 6+ | Symmetry (mirror line) | — | Planned |
-| 3 | [Paper Boat](projects/03-paper-boat/README.md) | 6+ | Halving / fractions | — | Planned |
+| 2 | [Fox Face](projects/02-fox-face/README.md) | 6+ | Symmetry (mirror line) | [PDF](projects/02-fox-face/templates.pdf) · [fold sheet](projects/02-fox-face/fold-sheet.pdf) · [draw sheet](projects/02-fox-face/fold-sheet-draw.pdf) · [final](projects/02-fox-face/final.png) | **Done** |
+| 3 | [Paper Boat](projects/03-paper-boat/README.md) | 6+ | Halving / fractions | — | **Next** |
 | 4 | [Jumping Frog](projects/04-jumping-frog/README.md) | 7+ | Event → action (spring) | — | Planned |
 | 5 | [Paper Plane Dart](projects/05-paper-plane/README.md) | 7+ | Angles + centre line | — | Planned |
 | 6 | [Fortune Teller](projects/06-fortune-teller/README.md) | 7+ | Nested loops | — | Planned |
