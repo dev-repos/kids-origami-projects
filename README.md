@@ -4,7 +4,7 @@ Fold-along paper crafts for ages 6–12 from [@Kids.JoinDev](https://www.youtube
 
 Website: https://dev-repos.github.io/kids-origami-projects/
 
-Every topic lives in its own folder under `projects/` with a guide (`README.md`), a machine-readable `spec.json` (steps), a **Finished!** result drawing (`final.png`), and **true-size A4 fold sheets** (`templates.pdf` at A4 210×297 mm — the preferred print file — plus `page-N.png` at 300 dpi, 1 mm ≈ 11.811 px, and `page-N.svg`). New topics are added to this same repo.
+Every topic lives in its own folder under `projects/` with a kid-facing guide (`README.md`), a **Finished!** result drawing (`final.png`), and **true-size A4 fold sheets** (`templates.pdf` at A4 210×297 mm — the preferred print file — plus `page-N.png` at 300 dpi, 1 mm ≈ 11.811 px, and `page-N.svg`). New topics are added to this same repo.
 
 ## How to print (true-size A4)
 
@@ -24,15 +24,6 @@ Every topic lives in its own folder under `projects/` with a guide (`README.md`)
 | → arrow | Direction to fold |
 | Number badge | Step order (follow in sequence — it is an algorithm!) |
 | ★ Finished! | What the model should look like at the end |
-
-
-## Video quality (Origami for Kids episodes)
-
-When an episode is made for a topic in this repo, these rules are required (see also `AGENTS.md` and the sandbox `origami.md`):
-
-1. **Smooth** — fold flaps with eased hinge rotations over the crease (≥ 30 fps); no jump-cuts; steady camera.
-2. **Clear direction** — show the crease line first, then a big arrow, highlight the moving flap, crease, then a result outline check. Cuts use a red line + travelling scissors icon and a “ask a grown-up” tip.
-3. **Narration sync** — step `say` + `cue` fields in `spec.json` bind animation phases to Azure TTS word timings; the next step waits for the line to finish.
 
 ## Playlist backlog
 
@@ -55,7 +46,7 @@ Planned folders are linked ahead of time; open them once that topic ships.
 
 ## Licence
 
-- Code (`*.py`, HTML, build scripts): MIT
+- Site HTML: MIT
 - Guides, fold sheets and pictures: CC BY 4.0
 
 See [LICENSE](LICENSE).

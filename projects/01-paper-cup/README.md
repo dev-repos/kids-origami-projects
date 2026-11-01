@@ -16,8 +16,7 @@ Download **[templates.pdf](templates.pdf)** (2× A4 pages). Print at **100% / Ac
 
 - [page-1.png](page-1.png) · [page-1.svg](page-1.svg) — cover, true-size square, symbol key, Finished! preview  
 - [page-2.png](page-2.png) · [page-2.svg](page-2.svg) — steps 1–7 + Finished! check  
-- [final.png](final.png) — vector finished cup  
-- Machine-readable steps: [spec.json](spec.json)
+- [final.png](final.png) — finished cup drawing  
 
 ## Symbol key
 | Mark | Meaning |
@@ -42,9 +41,6 @@ Your cup should look like [final.png](final.png): open top, tapered body, **two 
 
 ## Try it
 Fold a second cup from a magazine page. Same algorithm — does it still work?
-
-## Generator
-Sheets are built by [`tools/paper_cup.py`](../../tools/paper_cup.py) (run from that folder’s parent with `python3 tools/paper_cup.py`).
 
 ## Video
 Episode for the **Origami for Kids** playlist on [@Kids.JoinDev](https://www.youtube.com/@Kids.JoinDev) — coming soon.
