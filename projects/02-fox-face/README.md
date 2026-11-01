@@ -51,4 +51,4 @@ Your fox should look like [final.png](final.png): triangle face, two ear peeks, 
 Fold a second fox from plain paper and draw a funny face — same folds, new expression.
 
 ## Video
-Episode for the **Origami for Kids** playlist on [@Kids.JoinDev](https://www.youtube.com/@Kids.JoinDev) — coming soon (review stills ready; full render not started).
+Episode for the **Origami for Kids** playlist on [@Kids.JoinDev](https://www.youtube.com/@Kids.JoinDev): [Fold a Fox Face!](https://youtu.be/jkVGr6Ki0po) (private / madeForKids — replaces tip-hand draft `JTEiFMKbUes`). Robot claw matches Paper Cup.
