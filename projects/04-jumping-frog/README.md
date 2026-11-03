@@ -1,6 +1,8 @@
 # #04 Jumping Frog
 
 Fold a paper frog that really jumps! Ages 7+, about 15 minutes, one 150 mm square.
+
+▶ Video: https://www.youtube.com/watch?v=FTvjNyp0yFY&list=PLG27WuKuRInU
 Coding idea: the zig-zag spring **stores energy**, and pressing the back is the **trigger** (event → action).
 
 **Print at 100% / actual size** and check the 100 mm bar. `fold-sheet.pdf` = print both sides (flip on the long edge).
