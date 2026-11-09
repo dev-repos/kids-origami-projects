@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<rect width="210" height="297" fill="#60A5FA"/>
+<circle cx="32.0" cy="40.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="40.0" cy="37.0" r="9" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="49.0" cy="40.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="40.0" cy="43.0" r="6" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="142.0" cy="70.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="150.0" cy="67.0" r="9" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="159.0" cy="70.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="150.0" cy="73.0" r="6" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="62.0" cy="120.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="70.0" cy="117.0" r="9" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="79.0" cy="120.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="70.0" cy="123.0" r="6" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="157.0" cy="165.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="165.0" cy="162.0" r="9" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="174.0" cy="165.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="165.0" cy="168.0" r="6" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="27.0" cy="200.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="35.0" cy="197.0" r="9" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="44.0" cy="200.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="35.0" cy="203.0" r="6" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="112.0" cy="235.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="120.0" cy="232.0" r="9" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="129.0" cy="235.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="120.0" cy="238.0" r="6" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="167.0" cy="270.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="175.0" cy="267.0" r="9" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="184.0" cy="270.0" r="7" fill="#DBEAFE" opacity="0.55"/>
+<circle cx="175.0" cy="273.0" r="6" fill="#DBEAFE" opacity="0.55"/>
+<text x="105.00" y="126.50" font-size="16" text-anchor="middle" fill="#000" fill-opacity="0.05" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">SIDE B</text>
+<line x1="105.00" y1="0.00" x2="210.00" y2="105.01" stroke="#DC2626" stroke-width="0.8" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="0.00" y1="105.01" x2="105.00" y2="0.00" stroke="#DC2626" stroke-width="0.8" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="105.00" y1="0.00" x2="210.00" y2="253.51" stroke="#DC2626" stroke-width="0.8" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="105.00" y1="0.00" x2="210.00" y2="43.49" stroke="#2563EB" stroke-width="0.8" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="0.00" y1="43.49" x2="105.00" y2="0.00" stroke="#2563EB" stroke-width="0.8" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="105.00" y1="297.00" x2="105.00" y2="0.00" stroke="#2563EB" stroke-width="0.8" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="134.70" y1="297.00" x2="134.70" y2="71.70" stroke="#DC2626" stroke-width="0.8" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="210.00" y1="147.01" x2="134.70" y2="71.70" stroke="#2563EB" stroke-width="0.8" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="210.00" y1="29.70" x2="176.70" y2="29.70" stroke="#2563EB" stroke-width="0.8" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="176.70" y1="29.70" x2="210.00" y2="63.00" stroke="#DC2626" stroke-width="0.8" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="75.30" y1="297.00" x2="75.30" y2="71.70" stroke="#DC2626" stroke-width="0.8" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<line x1="0.00" y1="147.01" x2="75.30" y2="71.70" stroke="#2563EB" stroke-width="0.8" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="0.00" y1="29.70" x2="33.30" y2="29.70" stroke="#2563EB" stroke-width="0.8" stroke-dasharray="4 2.2" stroke-linecap="round"/>
+<line x1="0.00" y1="63.00" x2="33.30" y2="29.70" stroke="#DC2626" stroke-width="0.8" stroke-dasharray="4 1.4 0.9 1.4" stroke-linecap="round"/>
+<circle cx="157.50" cy="52.50" r="3.00" fill="#DC2626" stroke="#fff" stroke-width="0.6"/><text x="157.50" y="53.56" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">2</text>
+<circle cx="52.50" cy="52.50" r="3.00" fill="#DC2626" stroke="#fff" stroke-width="0.6"/><text x="52.50" y="53.56" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">3</text>
+<circle cx="157.50" cy="126.75" r="3.00" fill="#DC2626" stroke="#fff" stroke-width="0.6"/><text x="157.50" y="127.81" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">4</text>
+<circle cx="157.50" cy="21.75" r="3.00" fill="#2563EB" stroke="#fff" stroke-width="0.6"/><text x="157.50" y="22.80" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">4</text>
+<circle cx="52.50" cy="21.75" r="3.00" fill="#2563EB" stroke="#fff" stroke-width="0.6"/><text x="52.50" y="22.80" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">5</text>
+<circle cx="105.00" cy="148.50" r="3.00" fill="#2563EB" stroke="#fff" stroke-width="0.6"/><text x="105.00" y="149.56" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">7</text>
+<circle cx="134.70" cy="184.35" r="3.00" fill="#DC2626" stroke="#fff" stroke-width="0.6"/><text x="134.70" y="185.41" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">8</text>
+<circle cx="172.35" cy="109.35" r="3.00" fill="#2563EB" stroke="#fff" stroke-width="0.6"/><text x="172.35" y="110.41" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">8</text>
+<circle cx="193.35" cy="29.70" r="3.00" fill="#2563EB" stroke="#fff" stroke-width="0.6"/><text x="193.35" y="30.76" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">8</text>
+<circle cx="193.35" cy="46.35" r="3.00" fill="#DC2626" stroke="#fff" stroke-width="0.6"/><text x="193.35" y="47.41" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">8</text>
+<circle cx="75.30" cy="184.35" r="3.00" fill="#DC2626" stroke="#fff" stroke-width="0.6"/><text x="75.30" y="185.41" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">10</text>
+<circle cx="37.65" cy="109.35" r="3.00" fill="#2563EB" stroke="#fff" stroke-width="0.6"/><text x="37.65" y="110.41" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">10</text>
+<circle cx="16.65" cy="29.70" r="3.00" fill="#2563EB" stroke="#fff" stroke-width="0.6"/><text x="16.65" y="30.76" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">10</text>
+<circle cx="16.65" cy="46.35" r="3.00" fill="#DC2626" stroke="#fff" stroke-width="0.6"/><text x="16.65" y="47.41" font-size="3.2" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">10</text>
+<circle cx="205.00" cy="5.00" r="3.80" fill="#FFFFFF" stroke="#F59E0B" stroke-width="0.6" stroke-dasharray="0.8 0.8"/><text x="205.00" y="6.06" font-size="3.2" text-anchor="middle" fill="#F59E0B" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">3</text>
+<circle cx="203.00" cy="105.01" r="3.60" fill="#F59E0B" stroke="#fff" stroke-width="0.6"/><text x="203.00" y="106.13" font-size="3.4" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">4</text>
+<circle cx="7.00" cy="105.01" r="3.60" fill="#F59E0B" stroke="#fff" stroke-width="0.6"/><text x="7.00" y="106.13" font-size="3.4" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">5</text>
+<circle cx="194.00" cy="109.79" r="3.80" fill="#FFFFFF" stroke="#F59E0B" stroke-width="0.6" stroke-dasharray="0.8 0.8"/><text x="194.00" y="110.85" font-size="3.2" text-anchor="middle" fill="#F59E0B" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">5</text>
+<circle cx="203.00" cy="290.00" r="3.60" fill="#F59E0B" stroke="#fff" stroke-width="0.6"/><text x="203.00" y="291.12" font-size="3.4" text-anchor="middle" fill="#fff" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">7</text>
+<circle cx="5.00" cy="292.00" r="3.80" fill="#FFFFFF" stroke="#F59E0B" stroke-width="0.6" stroke-dasharray="0.8 0.8"/><text x="5.00" y="293.06" font-size="3.2" text-anchor="middle" fill="#F59E0B" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">7</text>
+<rect x="55.00" y="263.00" width="100.00" height="14.00" fill="#DBEAFE" stroke="#93C5FD" stroke-width="0.3" rx="2"/>
+<text x="97.00" y="268.00" font-size="2.8" text-anchor="end" fill="#1E3A8A" fill-opacity="0.8" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700">Side B = the top</text>
+<text x="97.00" y="273.00" font-size="2.6" text-anchor="end" fill="#1E3A8A" fill-opacity="0.8" font-family="DejaVu Sans,Arial,sans-serif">of your wings.</text>
+<text x="113.00" y="268.00" font-size="2.6" text-anchor="start" fill="#1E3A8A" fill-opacity="0.8" font-family="DejaVu Sans,Arial,sans-serif">Valley on one side =</text>
+<text x="113.00" y="273.00" font-size="2.6" text-anchor="start" fill="#1E3A8A" fill-opacity="0.8" font-family="DejaVu Sans,Arial,sans-serif">mountain on the other.</text>
+</svg>

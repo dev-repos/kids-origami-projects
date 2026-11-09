@@ -31,9 +31,9 @@ Every topic lives in its own folder under `projects/` with a kid landing page (`
 |---|---------|------|--------------|------------|--------|
 | 1 | [Paper Cup](projects/01-paper-cup/) | 6+ | Steps as an algorithm | [PDF](projects/01-paper-cup/templates.pdf) · [fold sheet](projects/01-paper-cup/fold-sheet.pdf) · [final](projects/01-paper-cup/final.png) | **Live** |
 | 2 | [Fox Face](projects/02-fox-face/) | 6+ | Symmetry (mirror line) | [PDF](projects/02-fox-face/templates.pdf) · [fold sheet](projects/02-fox-face/fold-sheet.pdf) · [draw sheet](projects/02-fox-face/fold-sheet-draw.pdf) · [final](projects/02-fox-face/final.png) | **Done** |
-| 3 | [Paper Boat](projects/03-paper-boat/README.md) | 6+ | Halving / fractions | — | **Next** |
+| 3 | [Paper Boat](projects/03-paper-boat/) | 6+ | Halves + a loop | [PDF](projects/03-paper-boat/templates.pdf) · [fold sheet](projects/03-paper-boat/fold-sheet.pdf) · [final](projects/03-paper-boat/final.png) | **Done** |
 | 4 | [Jumping Frog](projects/04-jumping-frog/) | 7+ | Event → action (spring) | [PDF](projects/04-jumping-frog/templates.pdf) · [fold sheet](projects/04-jumping-frog/fold-sheet.pdf) · [final](projects/04-jumping-frog/final.png) | **Done** |
-| 5 | [Paper Plane Dart](projects/05-paper-plane/README.md) | 7+ | Angles + centre line | — | Planned |
+| 5 | [Paper Plane Dart](projects/05-paper-plane/) | 7+ | Symmetry + halving angles | [PDF](projects/05-paper-plane/templates.pdf) · [fold sheet](projects/05-paper-plane/fold-sheet.pdf) · [final](projects/05-paper-plane/final.png) | **Done** |
 | 6 | [Fortune Teller](projects/06-fortune-teller/README.md) | 7+ | Nested loops | — | Planned |
 | 7 | [Heart Bookmark](projects/07-heart-bookmark/README.md) | 7+ | Matching pairs | — | Planned |
 | 8 | [Butterfly](projects/08-butterfly/README.md) | 8+ | Reusable base ≈ functions | — | Planned |
