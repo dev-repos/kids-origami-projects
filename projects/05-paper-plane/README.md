@@ -2,7 +2,7 @@
 
 Fold the classic dart paper plane from one A4 sheet — and throw it! Ages 7+, about 10 minutes.
 
-▶ Video: https://www.youtube.com/watch?v=CI7qJ5zEAVA&list=PLG27WuKuRInU
+▶ Video: https://www.youtube.com/watch?v=usXTfXN7SLk&list=PLG27WuKuRInU
 
 Maths / coding idea: the middle line is a **line of symmetry** (left = right), and each corner fold **halves the angle** (90° → 45° → 22.5°).
 
@@ -23,7 +23,7 @@ Maths / coding idea: the middle line is a **line of symmetry** (left = right), a
 9. **Turn over** — Flip the plane over. *Check:* The other wing is on top. *Tip:* Keep the nose pointing up.
 10. **Other wing** — Fold this wing on its line too, the same as step 8. *Check:* Both wings folded. *Tip:* Match the first wing.
 11. **Open the wings** — Hold the body underneath and open both wings out flat. *Check:* A T shape from the front. *Tip:* Wings level, not drooping.
-12. **Throw it!** — Hold the body, aim a little up, and push it gently forward. *Check:* It glides! *Tip:* Gentle and level beats hard.
+12. **Throw it!** — Hold the body from underneath, aim a little up, and push it gently forward. *Check:* It glides! *Tip:* Gentle and level beats hard.
 
 Safety: throw it in an open space, never at people or animals.
 
