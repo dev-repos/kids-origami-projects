@@ -36,7 +36,7 @@ Every topic lives in its own folder under `projects/` with a kid landing page (`
 | 5 | [Paper Plane Dart](projects/05-paper-plane/) | 7+ | Symmetry + halving angles | [PDF](projects/05-paper-plane/templates.pdf) · [fold sheet](projects/05-paper-plane/fold-sheet.pdf) · [final](projects/05-paper-plane/final.png) | **Done** |
 | 6 | [Fortune Teller](projects/06-fortune-teller/README.md) | 7+ | Nested loops | — | Planned |
 | 7 | [Heart Bookmark](projects/07-heart-bookmark/README.md) | 7+ | Matching pairs | — | Planned |
-| 8 | [Butterfly](projects/08-butterfly/README.md) | 8+ | Reusable base ≈ functions | — | Planned |
+| 8 | [Butterfly](projects/08-butterfly/) | 8+ | A base you can reuse = a function | [PDF](projects/08-butterfly/templates.pdf) · [fold sheet](projects/08-butterfly/fold-sheet.pdf) · [final](projects/08-butterfly/final.png) | **Done** |
 | 9 | [Samurai Helmet](projects/09-samurai-helmet/README.md) | 8+ | Hierarchy of folds | — | Planned |
 | 10 | [Talking Crow](projects/10-talking-crow/README.md) | 8+ | Input → output | — | Planned |
 | 11 | [Classic Crane](projects/11-crane/README.md) | 9+ | Long algorithm / debugging | — | Planned |
