@@ -38,7 +38,7 @@ Every topic lives in its own folder under `projects/` with a kid landing page (`
 | 7 | [Heart Bookmark](projects/07-heart-bookmark/README.md) | 7+ | Matching pairs | — | Planned |
 | 8 | [Butterfly](projects/08-butterfly/) | 8+ | A base you can reuse = a function | [PDF](projects/08-butterfly/templates.pdf) · [fold sheet](projects/08-butterfly/fold-sheet.pdf) · [final](projects/08-butterfly/final.png) | **Done** |
 | 9 | [Samurai Helmet](projects/09-samurai-helmet/README.md) | 8+ | Hierarchy of folds | — | Planned |
-| 10 | [Talking Crow](projects/10-talking-crow/README.md) | 8+ | Input → output | — | Planned |
+| 10 | [Talking Crow](projects/10-talking-crow/) | 8+ | Input → output | [PDF](projects/10-talking-crow/templates.pdf) · [fold sheet](projects/10-talking-crow/fold-sheet.pdf) · [final](projects/10-talking-crow/final.png) | **Done** |
 | 11 | [Classic Crane](projects/11-crane/README.md) | 9+ | Long algorithm / debugging | — | Planned |
 | 12 | [Modular Star](projects/12-modular-star/README.md) | 10+ | Modules as functions | — | Planned |
 
