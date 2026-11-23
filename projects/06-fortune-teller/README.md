@@ -2,7 +2,7 @@
 
 Fold a fortune teller, pick a colour, count, lift a flap — and do what it says! Ages 7+, about 15 minutes, one 150 mm square.
 
-▶ Video: https://www.youtube.com/watch?v=SW7aLbukgsg&list=PLG27WuKuRInU
+▶ Video: https://www.youtube.com/watch?v=1pQ-KgtHQUg&list=PLG27WuKuRInU
 
 Coding idea: **loops inside loops**. Spell the colour (one open per letter), count to the number, then lift the flap: the result.
 
